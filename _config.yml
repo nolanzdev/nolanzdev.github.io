@@ -11,6 +11,13 @@ lang: en
 # Change to your timezone › https://zones.arilyn.cc
 timezone: Asia/Shanghai
 
+# --- jekyll-polyglot (bilingual) ---
+languages: ["en", "zh-CN"]
+default_lang: "en"
+exclude_from_localization: ["assets", "static", "favicons", "img", "robots.txt", "feed.xml", "sitemap.xml", "manifest.json", "sw.js", "norobots.txt", "404.html", ".nojekyll", "redirect"]
+parallel_localization: false
+# -----------------------------------
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
@@ -135,9 +142,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # The option for PWA feature (installable)
+  enabled: false # disabled to avoid service-worker / multilingual cache conflicts
   cache:
-    enabled: true # The option for PWA offline cache
+    enabled: false # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
@@ -145,6 +152,10 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
+
+# Load the polyglot plugin (in addition to the theme's bundled plugins)
+plugins:
+  - jekyll-polyglot
 
 # The base URL of your site
 baseurl: ""
