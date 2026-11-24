@@ -1,79 +1,76 @@
 ---
-title: "The new Trazia: turn your photo into a printable coloring page"
+title: "How to turn a photo into a coloring page you can print"
+description: "Turn any photo of your kids or pets into a printable coloring page with Trazia: 7 styles, a free preview, PNG and PDF in A4 and US Letter. Plus printable coloring books and free coloring pages."
 date: 2026-11-20 18:00:00 +0800
 last_modified_at: 2026-11-24 18:00:00 +0800
 categories: [产品记录]
-tags: [AI, coloring pages, indie, Trazia]
+tags: [coloring pages, photo to coloring page, printable coloring book, Trazia]
 lang: en
 permalink: /posts/trazia-photo-coloring-page/
 ---
 
-> Updated 2026-11-24: a lot changed in the first few days. There are now 7 photo styles, one free preview per account, 19 coloring books and a yearly pass, free pages you can color online, and the site went from English-only to 13 languages. This post has been rewritten to match.
-{: .prompt-info }
+A coloring page of your own dog, your kids or grandma's garden is more fun than anything in a store-bought book. [Trazia](https://trazia.art) is a small tool I built for exactly that: **upload a photo and it [turns the photo into a coloring page](https://trazia.art/photo)** with clean, print-ready outlines. Your first page is a free preview, so you see the result before you pay.
 
-I rebuilt Trazia. At its core it does one thing: **it turns your photo into a coloring page you can print**. Your dog, your kids, grandma's garden: upload a photo, see one page for free, and pay only if you love it.
+![A girl with her puppy, drawn as a simple coloring page](https://trazia.art/samples/styles/simple-kid.webp){: w="360" }
+_A photo of a girl and her puppy in the Simple style_
 
-It also sells ready-made themed coloring books as PDFs that you download and print right away.
+## How it works
 
-> 💡 Visit: <https://trazia.art>
-{: .prompt-tip }
+1. **Sign in** with Google in one tap, or with a code sent to your email.
+2. **Pick a style and get a free preview.** Every account can draw one watermarked page for free.
+3. **Order the pages you want.** The first page is $1.99 and each extra page adds $0.20, up to 10 photos per order. You get a high-res PNG and a print-ready PDF in both A4 and US Letter, and you can print as many copies as you like.
 
-![A cat photo turned into a coloring page](https://trazia.art/samples/cat-after.jpg){: w="360" }
-_A coloring page drawn from a cat photo (detailed style)_
+## 7 styles to choose from
 
-## Photo to coloring page
+- **Simple**: big outlines and big spaces, easy for little kids
+- **Detailed**: finer lines for grown-ups who color to relax
+- **Christmas**: your kid or pet in a festive outfit
+- **Chibi**: a cute, big-headed cartoon version
+- **Toy figure**: drawn like a little collectible figure
+- **Color sticker sheet** and **stickers to color**: see the [photo to stickers](https://trazia.art/photo-to-stickers) page
 
-1. **Sign in** with Google in one tap, or with a code or link sent to your email.
-2. **Pick a style and preview one page for free.** Every account gets one free, watermarked page. There are 7 styles:
-   - Simple (big outlines and big spaces, for little kids) and Detailed (for grown-ups who color to relax)
-   - Christmas, chibi and toy figure, which restyle your subject before turning it into line art
-   - Color sticker sheet and stickers to color
-3. **Pay, upload, download.** The first page is $1.99 and each extra page adds $0.20, up to 10 pages per order. You get high-res PNGs without the watermark, plus a print-ready PDF in A4 and US Letter. Print as many copies as you like.
+![The same photo in the chibi style](https://trazia.art/samples/styles/chibi-kid.webp){: w="300" }
+_The same photo in the Chibi style_
 
-With 2 or more pages in an order, the download page can also bind them into a **custom coloring book** PDF, with a cover (the title in outlined letters you can color too) and a "colored by ____" page, at no extra cost.
+## Ideas for your photo coloring pages
 
-## Ready-made coloring books
+- **Pet portraits**: a coloring page of the family dog or cat is a great gift for any pet owner.
+- **Birthday parties**: turn the birthday kid's photo into a coloring page and print one for every guest.
+- **A custom coloring book**: order 2 or more pages and the download page binds them into a [custom coloring book](https://trazia.art/custom-coloring-book) PDF, with a cover and a "colored by" page, at no extra cost. Grandparents love these.
+- **Classrooms**: teachers turn class-trip photos into coloring sheets.
+- **Name pages**: the free [name coloring pages](https://trazia.art/name-coloring-pages) maker puts any name in a themed frame, ready to print.
 
-Don't want to use your own photos? Buy a themed coloring book. There are **19 books** now, about 20 pages each, at $1.99 a book:
+## Tips for the best result
 
-- **Holidays**: Thanksgiving, Christmas, New Year, Valentine's Day, Lunar New Year
-- **Cozy (for grown-ups)**: winter cottages, capybaras, highland cows, a little witch's cottage, kawaii treats, little shops; bold lines and simple scenes that are relaxing to color
-- **Animals and fantasy**: dinosaurs, axolotls, polar animals, unicorns and mermaids
-- **Toddlers and large print**: a first coloring book for the littlest ones, and a large-print book with thicker lines and bigger shapes
+- Use a well-lit photo where the people or pets are big and in focus.
+- One to three subjects work best. Big group shots and dark or blurry photos lose detail.
+- Your photo is used only to draw your page and is deleted from the server as soon as the page is drawn.
 
-The [book catalog](https://trazia.art/books) has search and filters for age and theme, and every book shows sample pages before you buy. **Bundles** of several books cost less, and if you color a lot there's the **All-Access Pass**: $19.99 for a year of every book, new ones included.
+## Printable coloring books
 
-## The free part
+No photo handy? Trazia also has **19 [printable coloring books](https://trazia.art/books)**, about 20 pages each, as instant PDF downloads for $1.99. You can preview sample pages of every book first. A few favorites:
 
-- **Free coloring pages**: 20 so far, with more coming. No sign-up; download the PDF or PNG and print.
-- **Color online**: tap to fill any free page in the browser, undo, then download your picture.
-- **Color by number**: PDFs with a color key, or color them online, where each number disappears once its area has the right color.
-- **Name coloring pages**: type a name, pick a themed frame, and print it. It's drawn in your browser, so the name is never sent to the server.
-- **New-pages email**: a Monday email when new free pages are out; a quiet week sends nothing.
+- [Dino Adventure](https://trazia.art/books/dino-adventure): 24 friendly dinosaurs for kids aged 4 to 9
+- [Merry Little Christmas](https://trazia.art/books/christmas-cheer): cute Christmas pages for kids
+- [Chill Capybara Days](https://trazia.art/books/chill-capybara) and [Fluffy Highland Cows](https://trazia.art/books/highland-cows): bold and easy cozy pages for adults
+- [Unicorns & Mermaids](https://trazia.art/books/unicorn-mermaid-dreams): magical scenes for young kids
+- [My First Coloring Book](https://trazia.art/books/my-first-coloring-book): simple shapes for toddlers
+- [Simple Joys](https://trazia.art/books/simple-joys-large-print): a large-print coloring book with thick lines
 
-## Why the change
+Bundles cost less than single books, and the [All-Access Pass](https://trazia.art/pass) gives you every book for a year, new books included.
 
-The old Trazia was a free coloring-page generator plus a programmatic-SEO site with 13 languages and 500+ pages, meant to earn from search traffic and credits (old post [here](/posts/trazia/)). But a free tool mostly attracts people who don't plan to pay, and SEO pages take a long time to rank.
+## Free printable coloring pages
 
-This time I started from the other end: who is happy to pay for a coloring page?
+Want to try before buying anything? There are [free printable coloring pages](https://trazia.art/coloring-pages) with no sign-up: download the PDF or PNG, or color them online right in the browser. Some come as color-by-number sheets. Popular ones include a [dinosaur](https://trazia.art/coloring-pages/dinosaur), a [unicorn](https://trazia.art/coloring-pages/unicorn), a [capybara](https://trazia.art/coloring-pages/capybara), a [Christmas tree](https://trazia.art/coloring-pages/christmas-tree) and a [mandala](https://trazia.art/coloring-pages/mandala).
 
-- **A coloring page of your own photo is personal.** Nobody else can make a coloring page of your dog, which makes it worth paying for in a way generic themes aren't.
-- **See the result before paying.** You can tell at a glance whether the AI did a good job, so every account gets one watermarked preview instead of a top-up or a subscription.
-- **Mostly one-time purchases.** Most buyers have a one-off need, so there are no credits or subscriptions; the yearly pass is only for people who really do buy a lot of books.
+## FAQ
 
-A few things turned out differently from the first plan:
+**Is it free?** The first photo page is a free preview with a watermark. Free coloring pages and name pages are always free. Photo pages and books are paid.
 
-- **You now sign in.** At first you could buy with just an email. But photos have to stay tied to their order, the free preview needs protecting from abuse, and buyers need a way to get back to what they bought, so it's sign-in now (Google one tap or an email code). Everything you've bought is under My Purchases.
-- **Multiple languages are back.** The plan was English only, but translating the shop pages turned out to be cheap, so the home, photo, book and bundle pages now come in 13 languages (English, German, French, Spanish, Italian, Dutch, Portuguese, Polish, Swedish, Turkish, Russian, Japanese and Chinese). Prices are always in US dollars, written the local way.
-- **Free content was added.** The free pages aren't meant to make money. They give search engines and first-time visitors a way in: color a few pages for free, and buy a book or a photo page if you like them.
+**What do I get?** A high-res PNG and a PDF in A4 and US Letter. Print it as many times as you want.
 
-The old free generator, credits, subscriptions and community are all gone. Old links 301-redirect to the matching new pages.
+**Can I use the pages I made from my photos?** Yes, they're yours to use. Coloring books are for personal, gift, party and classroom use, not for resale.
 
-## A few notes
+**What if a page doesn't come out right?** Email support and they'll fix it or refund you.
 
-- Your photo is used only to draw your page. It's deleted from the server as soon as the page is drawn, and never published or used for anything else.
-- Photos that work best: well lit, with one to three people or pets that are big and in focus. Busy group shots and dark or blurry photos lose detail.
-- Checkout is handled by Waffo, prices are in US dollars; see the site for current prices. If a photo page has a clear problem, email us and we'll fix it or refund you.
-- Books and the pass can be printed for your household, as gifts, for a party or for a class you teach, but not for commercial use. Pages drawn from your own photos are yours to use however you like.
-
-If you have kids or pets, upload a photo at <https://trazia.art>. The first preview is free. Feedback welcome.
+Try it with a photo of your kids or pets at <https://trazia.art>.
